@@ -62,7 +62,7 @@ and desig='".md5($desig)."'";
 </head>
 <body>
 <h1 style="font-family: sans-serif;">Php data handling </h1>
-
+<h2> i am form 2nd user </h2>
 <form action="" method="post" enctype="multipart/form-data">
 
 	<input type="text" name="name" required placeholder="Enter name">
